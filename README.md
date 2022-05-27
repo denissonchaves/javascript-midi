@@ -1,1 +1,3 @@
-# javascript-midi
+# JavaScript MIDI
+
+Musical Instrument Digital Interface
